@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>89887C3B-3411-4B8A-A496-5B799A711499</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlideToPopDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D8F3E756-C3BF-4478-99CF-B8502C2E18B6</key>
+		<string>https://github.com/wangchaoIOS/Chaowang.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D8F3E756-C3BF-4478-99CF-B8502C2E18B6</key>
+		<string>../../../../Chaowang</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangchaoIOS/Chaowang.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D8F3E756-C3BF-4478-99CF-B8502C2E18B6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8F3E756-C3BF-4478-99CF-B8502C2E18B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Chaowang</string>
+		</dict>
+	</array>
+</dict>
+</plist>
